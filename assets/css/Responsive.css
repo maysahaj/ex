@@ -30,8 +30,11 @@
     padding:25px 20px;
 }
 .ServicesSection h3 {
-  font-size: 20px;
+  font-size: 18px;
  
+}
+.ServicesSection p {
+    font-size: 14px;
 }
 .productSection h3 {
     font-size: 18px;
@@ -47,4 +50,9 @@
     outline: none;
     border: none;
 }
+
+.TestamonialSection h3 {
+    font-size: 18px;
+    color: #173460;
+    font-weight: bold;
 }

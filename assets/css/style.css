@@ -111,16 +111,16 @@ header a:hover{
 }
 
 .TestamonialSection .triangle{
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     display: inline-block;
     background: #c5d6f0;
-    padding: 75px 30px;
+    padding: 80px 30px;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     }
 
 .TestamonialSection h3{
-        font-size:22px;
+        font-size:20px;
         color:#173460;
         font-weight: bold;
 }
