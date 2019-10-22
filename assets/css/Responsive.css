@@ -56,3 +56,16 @@
     color: #173460;
     font-weight: bold;
 }
+.OrderPriceSection .btn-info{
+    font-size: 16px;
+    color:#173460;
+    height: 40px;
+    text-align: center;
+    width:200px;
+    line-height: 25px;
+    border-radius: 50px;
+    background:#98bcf1;
+    font-weight: bold;
+}
+
+}
