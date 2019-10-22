@@ -109,3 +109,18 @@ header a:hover{
 .ServicesSection p{
     font-size:16px;
 }
+
+.TestamonialSection .triangle{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    background: #c5d6f0;
+    padding: 75px 30px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    }
+
+.TestamonialSection h3{
+        font-size:22px;
+        color:#173460;
+        font-weight: bold;
+}

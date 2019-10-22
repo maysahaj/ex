@@ -38,4 +38,13 @@
     color: #173460;
     font-weight: bold;
 }
+.productSection .btn-secondary {
+    color: #fff;
+    background-color: #173460;
+    font-size: 13px;
+    padding: 10px 10px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+}
 }
