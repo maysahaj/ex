@@ -1,0 +1,111 @@
+body{
+    direction:rtl;
+    color: black;
+    font-family: 'Almarai', sans-serif;
+
+}
+header{
+    background:#173460;
+
+}
+
+header a{
+    font-size:16px;
+    color:#ffff;
+}
+
+header a:hover{
+    text-decoration: none;
+    color: rgb(102, 121, 233);
+}
+.bg-dark {
+    background-color: rgb(149, 203, 235)!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:#ffff;
+    font-size: 18px;
+    color:#173460; 
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: rgb(102, 121, 233);
+}
+.navbar-nav{
+    display :flex;
+    margin:0 auto;
+}
+.slider .carousel-item img {
+    height: 32rem;
+}
+.slider .btn-info{
+    font-size: 20px;
+    color: #ffff;
+   padding:15px 20px;
+   width: 300px;
+   border-radius:20px;
+   border: none;
+   outline: none;
+   background:#173460;
+ 
+}
+.slider .btn-info:hover{
+    background: #ffff;
+    color:#173460;
+    outline: none;
+ 
+}
+.section{
+    height: auto;
+    width: 100%
+}
+.section  h2{
+    font-size: 40px;
+    color:#c91c72;
+    font-weight: bold;
+}
+
+.valueSection h1{
+    font-size: 40px;
+    color:#c91c72;
+    font-weight: bold;
+
+}
+.valueSection .circle {
+    height: 100px;
+    width:100px;
+    padding:35px 30px;
+    border-radius:50%;
+    background:#c5d6f0;
+    border:none;
+}
+.productSection h3{
+    font-size:22px;
+    color:#173460;
+    font-weight: bold;
+
+}
+
+.productSection .btn-secondary {
+    color: #fff;
+    background-color: #173460;
+    font-size:14px;
+    padding:15px 15px;
+    border-radius:30px;
+    outline: none;
+    border: none;
+
+}
+.productSection .btn-secondary:hover{
+    background: #fff;
+    color:#173460;
+    border:1px solid #176038;
+
+
+}
+.ServicesSection h3{
+    font-size:22px;
+    color:#173460;
+    font-weight: bold;
+}
+.ServicesSection p{
+    font-size:16px;
+}
