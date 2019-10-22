@@ -33,4 +33,9 @@
   font-size: 20px;
  
 }
+.productSection h3 {
+    font-size: 18px;
+    color: #173460;
+    font-weight: bold;
+}
 }
