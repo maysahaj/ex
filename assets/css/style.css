@@ -141,3 +141,130 @@ header a:hover{
   outline: none;
   border: none;
 }
+
+.QuestionsSection .btn-info{
+    font-size: 24px;
+    color:#173460;
+    height: 60px;
+    text-align: center;
+    width:350px;
+    line-height: 40px;
+    background:#98bcf1;
+}
+.QuestionsSection .btn-info:hover{
+  text-decoration: none;
+  color:#aa6f9b;
+  outline: none;
+  border: none;
+}
+
+.OurPortofolio .circle {
+    height:140px;
+    width:140px;
+    padding: 30px;
+    border-radius:50%;
+    background:#f5eda6;
+    border:none;
+}
+
+.ArticlesSection .square{
+    height:200px;
+    width:300px;
+    padding: 30px;
+    border:1px solid #173460;
+}
+.contactNumber .rectangle{
+    font-size: 30px;
+    padding: 5px 15px;
+    border:1px solid #173460;
+    color: #fd16a4;
+}
+
+.contactNumber h3{
+    font-size:20px;
+    color:#173460;
+    font-weight: bold;
+}
+
+/*start footer*/
+.footerSection{
+    padding: 70px 0px;
+    background-color: #173460;
+    height: auto;
+    width: 100%;
+}
+.footerSection h2{
+    font-size: 24px;
+    color: #fff;
+}
+.footerSection ul li a{
+    color: #98a0aa;
+    padding-top: 8px;
+     text-decoration: none;
+     transition-duration: 0.3s;
+     display: inline-block;
+     font-size: 15px
+}
+.footerSection ul li a:hover{
+    color: #fff;
+    transition-duration: 0.3s
+}
+.footerSection .rectangle{
+    font-size: 30px;
+    padding:10px 15px;
+    border:1px solid #fff;
+    color: #fff;
+    margin-left: 10px;
+}
+.footerSection .rectangle:hover{
+    color:#98bcf1;
+}
+
+.footerSection .subscribeInput{
+    border-radius: 6px;
+    height: 50px;
+    background: #f8f8f8;
+    border:0px;
+    padding: 0px 30px 0px 35px;
+}
+.footerSection .subscribeForm{
+    position: relative;
+}
+.footerSection .subscribeBtn{
+    border-radius: 6px;
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    color: white;
+    border: 0px;
+    right: 220px;
+    top: 0px;
+    background:#55c0f1;
+}
+.priceSection h5{
+    font-size: 24px;
+    font-weight: bold;
+    columns: #173460;
+}
+.priceSection .btn-primary{
+    background: crimson;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+}
+.priceSection .btn-primary:hover{
+    background: rgb(219, 70, 100);
+    
+}
+.priceSection .card{
+border: 1px solid #173460;
+}
+ 
+
+
+    
+
+
+
+
+
