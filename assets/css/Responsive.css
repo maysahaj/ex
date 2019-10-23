@@ -171,6 +171,22 @@ text-align: center;
   line-height: 36px;
   background: #98bcf1;
 }
+.priceSection .card .card-body h5{
+  font-size: 16px;
+  ;
+}
+.priceSection .card .card-body p{
+  font-size: 14px;
+}
+.priceSection .btn-primary{
+  background: crimson;
+  border: none;
+  border-radius: 10px;
+  height: 30px;
+  outline: none;
+  font-size: 14px;
+  line-height: 17px;
+}
 
 
 }
