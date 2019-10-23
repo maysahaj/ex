@@ -1,3 +1,14 @@
+.designSection h3  {
+    font-size: 18px;
+    color:#173460;
+    font-weight: bold;
+
+}
+.designSection p {
+    font-size:16px;
+    color:#5f97ec;
+
+}
 .content{
   height: 200px;
     border:1px solid #101552;
@@ -8,12 +19,13 @@ mark{
 }
 
 .orderSection .btn-info{
-    font-size: 24px;
+    border-radius: 15px;
+    font-size: 20px;
     color:#173460;
-    height: 60px;
+    height: 50px;
     text-align: center;
-    width:350px;
-    line-height: 40px;
+    width:250px;
+    line-height: 30px;
     background:#98bcf1;
 }
 .orderSection .btn-info:hover{
@@ -22,7 +34,7 @@ mark{
   outline: none;
   border: none;
 }
-.OurPortofolio .circle {
+.OurPortofolioSection .circle {
     height: 100px;
     width: 100px;
     top: 20px;
@@ -33,18 +45,10 @@ mark{
     background: #e9d204;
     border: none;
 }
-.OurPortofolio .circle:hover{
+.OurPortofolioSection .circle:hover{
     background: #e7cd78;
 
 }
 
 
-.designSection h3 {
-    font-size: 22px;
-    color: #173460;
-    font-weight: bold;
-}
-.designSection p {
-    font-size: 17px;
-    color: #5f97ec;
-}
+
