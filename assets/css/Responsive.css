@@ -145,6 +145,33 @@ text-align: center;
   color: #173460;
   font-weight: bold;
 }
+.contentSystem .row1{
+  margin-top: 15px;
+
+
+}
+.contentSystem .content{
+  height: 150px;
+  width:200px;
+    border:1px solid #101552;
+    margin-right: 75px;
+
+}
+.orderSection mark {
+
+  font-size: 18px;
+  background: rgb(209, 212, 206);
+}
+.orderSection .btn-info {
+  font-size: 20px;
+  color: #173460;
+  height: 50px;
+  text-align: center;
+  width: 250px;
+  line-height: 36px;
+  background: #98bcf1;
+}
+
 
 
 
