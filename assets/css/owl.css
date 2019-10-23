@@ -37,9 +37,8 @@
         font-size: 24px;
         cursor: pointer;
         color: red;
-        top: 0px;
+        top: 0;
         padding: 0;
-        margin-top: 30;
         opacity: 1;
         left: 0px;
         -webkit-transition: all 0.3s ease;
