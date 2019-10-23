@@ -136,15 +136,14 @@ text-align: center;
   color:#98bcf1;
 }
 .designSection h3  {
-  font-size:18px;
+  font-size:16px;
   color:#173460;
   font-weight: bold;
 
 }
-.designSection p {
-  font-size:20px;
-  color:#5f97ec;
-
+.section .designSection p {
+    font-size: 10px;
+    color: #5f97ec;
 }
 
 
