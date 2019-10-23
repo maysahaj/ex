@@ -1,16 +1,17 @@
 @media (max-width: 992px) { 
   .navbar-dark .navbar-toggler {
     border-color: #fff;
-    color: #010101;
-    border-radius: 0px;
+    color: #ffffff;
+    border-radius: 5px;
+
   }
   
 .navbar-toggler {
- 
+  font-size: 16px;
   background-color: rgb(24, 4, 97);
+
  
 }
-
 .section  h2{
   font-size:22px;
   color:#c91c72;
