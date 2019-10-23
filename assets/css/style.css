@@ -241,16 +241,22 @@ header a:hover{
     top: 0px;
     background:#55c0f1;
 }
-.priceSection h5{
-    font-size: 24px;
+.priceSection .card .card-body h5{
+    font-size: 18px;
     font-weight: bold;
-    columns: #173460;
+    color: #173460;
+}
+.priceSection .card .card-body p{
+    font-size: 16px;
 }
 .priceSection .btn-primary{
     background: crimson;
     border: none;
-    border-radius: 6px;
+    border-radius: 10px;
+    height: 30px;
     outline: none;
+    font-size: 16px;
+    line-height: 17px;
 }
 .priceSection .btn-primary:hover{
     background: rgb(219, 70, 100);
