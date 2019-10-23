@@ -135,15 +135,15 @@ text-align: center;
 .footerSection .rectangle:hover{
   color:#98bcf1;
 }
-.designSection h3  {
-  font-size:16px;
-  color:#173460;
-  font-weight: bold;
 
-}
-.section .designSection p {
+ .designSection p {
     font-size: 10px;
     color: #5f97ec;
+}
+.designSection h3 {
+  font-size: 16px;
+  color: #173460;
+  font-weight: bold;
 }
 
 

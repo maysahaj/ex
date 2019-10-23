@@ -37,3 +37,14 @@ mark{
     background: #e7cd78;
 
 }
+
+
+.designSection h3 {
+    font-size: 22px;
+    color: #173460;
+    font-weight: bold;
+}
+.designSection p {
+    font-size: 17px;
+    color: #5f97ec;
+}
