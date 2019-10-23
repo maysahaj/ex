@@ -28,42 +28,7 @@
         position: absolute;
         z-index: 0;
         }
-        .owl-carousel .owl-nav button.owl-prev {
-        background: #010101;
-        position: absolute;
-        z-index: 1;
-        display: block;
-        line-height: 0px;
-        font-size: 24px;
-        cursor: pointer;
-        color: red;
-        top: 0;
-        padding: 0;
-        opacity: 1;
-        left: 0px;
-        -webkit-transition: all 0.3s ease;
-        -o-transition: all 0.3s ease;
-        transition: all 0.3s ease;
-        }
-        .owl-carousel .owl-nav button.owl-next{
-        background: #d10b0b;
-        position: absolute;
-        z-index: 1;
-        display: block;
-    
-        line-height: 0px;
-        font-size: 24px;
-        cursor: pointer;
-        color: #10c51f;
-        top:0px;
-        padding: 0;
-        margin-top: 0;
-        opacity: 1;
-        right: 0px;
-        -webkit-transition: all 0.3s ease;
-        -o-transition: all 0.3s ease;
-        transition: all 0.3s ease;
-        }
+       
         .owl-nav span{
         color:blueviolet;
         font-weight: bold;
@@ -111,7 +76,7 @@
         }
     
         .owl-nav .owl-prev {
-        left: 7PX !IMPORTANT;
+        left: 7PX !important;
         }
     
         .owl-nav .owl-next {
@@ -130,9 +95,9 @@
         cursor: pointer;
         color: red;
         margin-top: 30px;
-        top: 0px;
+        top: 30px;
         padding: 0;
-        margin-top: 30;
+        margin-top: 30px;
         opacity: 1;
         left: 0px;
         -webkit-transition: all 0.3s ease;
@@ -148,8 +113,8 @@
         font-size: 24px;
         cursor: pointer;
         color: red;
-        top: 0px;
-        padding: 0;
+        top: 30px;
+        padding: 0px;
         margin-top: 30px;
         opacity: 1;
         right: 0px;
@@ -195,6 +160,9 @@
         .owl-nav .owl-next {
         right: 7PX;
         }
+        .owl-nav .owl-next {
+            right: -10px!important;
+        }
     
         .owl-dots {
         display: none;
@@ -222,9 +190,7 @@
         left: 7PX !IMPORTANT;
         }
     
-        .owl-nav .owl-next {
-        right: 7PX !important;
-        }
+       
         .owl-prev {
         LEFT: 9PX;
         }
