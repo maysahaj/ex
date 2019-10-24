@@ -39,12 +39,15 @@ header a:hover{
 .slider .btn-info{
     font-size: 20px;
     color: #ffff;
-   padding:15px 20px;
-   width: 300px;
+   width: 200px;
    border-radius:20px;
-   border: none;
+   font-weight: bold;
    outline: none;
-   background:#173460;
+   background:rgb(74, 184, 204);
+   border:1px solid #173460;
+   display: flex;
+   margin: 0 auto;
+   text-align: center;
  
 }
 .slider .btn-info:hover{
@@ -143,13 +146,14 @@ header a:hover{
 }
 
 .QuestionsSection .btn-info{
-    font-size: 24px;
+    font-size: 20px;
     color:#173460;
-    height: 60px;
     text-align: center;
-    width:350px;
-    line-height: 40px;
+    width:250px;
     background:#98bcf1;
+    border-radius: 50px;
+    font-weight: bold;
+
 }
 .QuestionsSection .btn-info:hover{
   text-decoration: none;
