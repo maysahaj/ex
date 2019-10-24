@@ -21,10 +21,7 @@
     font-weight: bold;
 
 }
-.itemdesignSection .row p {
-    font-size:16px;
 
-}
 .itemdesignSection .row a {
     font-size:50px;
     color:#173460;
@@ -57,4 +54,8 @@
     white-space: nowrap;
     background-color: red;
     transition: width .6s ease;
+}
+.itemdesignSection .row p {
+    font-size:16px;
+
 }

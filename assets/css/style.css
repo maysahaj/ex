@@ -109,7 +109,7 @@ header a:hover{
     color:#173460;
     font-weight: bold;
 }
-.ServicesSection p{
+.ServicesSection .row p{
     font-size:16px;
 }
 

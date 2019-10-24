@@ -41,7 +41,7 @@
   font-size: 18px;
  
 }
-.ServicesSection p {
+.ServicesSection .row p {
     font-size: 14px;
 }
 .productSection h3 {
@@ -214,5 +214,6 @@ text-align: center;
   color: #173460;
   font-weight: bold;
 }
+
 
 }
