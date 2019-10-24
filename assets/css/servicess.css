@@ -15,14 +15,14 @@
     color:#5f97ec;
 
 }
-.itemdesignSection .row h3  {
+.itemdesign .row h3  {
     font-size:20px;
     color:#173460;
     font-weight: bold;
 
 }
 
-.itemdesignSection .row a {
+.itemdesign .row a {
     font-size:50px;
     color:#173460;
     font-weight: bold;
@@ -55,7 +55,34 @@
     background-color: red;
     transition: width .6s ease;
 }
-.itemdesignSection .row p {
+.itemdesign .row p {
     font-size:16px;
 
+}
+@media (max-width: 992px) { 
+    .itemdesign .row p {
+        font-size:13px;
+    
+    }
+    .itemdesign .row h3 {
+        font-size: 18px;
+        color: #173460;
+        font-weight: bold;
+    }
+    .red {
+        font-size: 18px;
+        color: red;
+    }
+    .progress {
+        display: -ms-flexbox;
+        display: flex;
+        height: 20px;
+        width: 150px;
+        overflow: hidden;
+        font-size: 50px;
+        background-color: #e9ecef;
+        border-radius: .25rem;
+        text-align: center;
+        margin: 0 auto;
+    }
 }
