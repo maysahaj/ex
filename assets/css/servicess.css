@@ -1,10 +1,16 @@
-.designSection h3  {
-    font-size: 12px;
+.designSectionServicess h4  {
+    font-size: 22px;
     color:#173460;
     font-weight: bold;
 
 }
-.designSection p {
+.designSectionServicess h3  {
+    font-size: 18px;
+    color:#173460;
+    font-weight: bold;
+
+}
+.designSectionServicess p {
     font-size:16px;
     color:#5f97ec;
 
@@ -15,17 +21,17 @@
     font-weight: bold;
 
 }
+.itemdesignSection .row p {
+    font-size:16px;
+
+}
 .itemdesignSection .row a {
     font-size:50px;
     color:#173460;
     font-weight: bold;
 
 }
-.designSection .row .p{
-    font-size:16px;
-    color:#0c0c0c;
 
-}
 .progress {
     display: -ms-flexbox;
     display: flex;

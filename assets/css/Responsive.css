@@ -205,5 +205,12 @@ text-align: center;
   background: #e9d204;
   border: none;
 }
+.designSectionServicess p {
+  font-size: 14px;
+}
+.itemdesignSection .row p {
+  font-size:13px;
+
+}
 
 }
